@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px
+}
+html{
+  font-size: 62.5%
+}
+/* |---- Variables ----| */
+:root {
+  --very-light-pink: #c7c7c7;
+  --light-color: #fff;
+  --text-input-field: #F7F7F7;
+  --dark-color: #000;
+  --hospital-green: #ACD9B2;
+}
